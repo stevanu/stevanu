@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋    Saya adalah seorang Fresh graduate dengan pengalaman di beberapa proyek sebagai Web Developer, Quality Control dan Quality Assurance. Terbiasa memahami kebutuhan sistem, memastikan fungsionalitas berjalan baik, dan berkontribusi dalam proses pengembangan aplikasi. Dengan rasa ingin tahu yang tinggi, semangat belajar yang kuat, serta kecintaan pada dunia software development sebagai hobi maupun profesi, Dengan semangat kolaborasi saya siap melangkah lebih jauh untuk menghadirkan solusi digital yang selaras dengan kebutuhan dan tujuan bisnis.
+## 👋    Saya adalah seorang Mahasiswa lulusan Universitas Nahdlatul Ulama Al Ghozali Jurusan Sistem Informasi, dengan pengalaman di beberapa proyek sebagai Web Developer, Quality Control dan Quality Assurance. Terbiasa memahami kebutuhan sistem, memastikan fungsionalitas berjalan baik, dan berkontribusi dalam proses pengembangan aplikasi. Dengan rasa ingin tahu yang tinggi, semangat belajar yang kuat, serta kecintaan pada dunia software development sebagai hobi maupun profesi, Dengan semangat kolaborasi saya siap melangkah lebih jauh untuk menghadirkan solusi digital yang selaras dengan kebutuhan dan tujuan bisnis.
   Saya percaya bahwa sistem yang baik lahir dari pemahaman yang mendalam terhadap kebutuhan pengguna, komunikasi yang jelas, dan perhatian pada detail.
 
 
