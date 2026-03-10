@@ -1,6 +1,6 @@
 # 💫 About Me:
-## 👋    Saya adalah seorang Mahasiswa lulusan Universitas Nahdlatul Ulama Al Ghozali Jurusan Sistem Informasi, dengan pengalaman di beberapa proyek sebagai Web Developer, Quality Control dan Quality Assurance. Terbiasa memahami kebutuhan sistem, memastikan fungsionalitas berjalan baik, dan berkontribusi dalam proses pengembangan aplikasi. <br> Dengan rasa ingin tahu yang tinggi, semangat belajar yang kuat, serta kecintaan pada dunia software development sebagai hobi maupun profesi, Dengan semangat kolaborasi saya siap melangkah lebih jauh untuk menghadirkan solusi digital yang selaras dengan kebutuhan dan tujuan bisnis.
-  Saya percaya bahwa sistem yang baik lahir dari pemahaman yang mendalam terhadap kebutuhan pengguna, komunikasi yang jelas, dan perhatian pada detail.
+## 👋    Hello!, My name is Stevanu. I am a graduate of Nahdlatul Ulama Al Ghozali University majoring in Information Systems, with experience in several projects as a Web Developer, Quality Control, and Quality Assurance. I am accustomed to understanding system requirements, ensuring proper functionality, and contributing to the application development process. <br> With a high curiosity, a strong passion for learning, and a love of the world of software development as a hobby and profession, with a spirit of collaboration, I am ready to go further to deliver digital solutions that align with business needs and goals.
+I believe that good systems are born from a deep understanding of user needs, clear communication, and attention to detail.
 
 
 ## 🌐 Socials:
