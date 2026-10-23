@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi! I'm **Stevanu**, an Information Systems graduate with experience in Web Development, Quality Control (QC), and Quality Assurance (QA).
+Hi! I'm **Stevanu**, an Information Systems graduate with experience in Web Development, and Quality Assurance (QA).
 
 💻 I'm passionate about software development, building reliable applications, and finding effective solutions to real-world problems. Through my project experience, I've developed an understanding of system requirements, application functionality, software testing, and the importance of delivering quality products.
 
