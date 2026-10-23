@@ -1,5 +1,16 @@
-# 💫 About Me:
-## 👋    Hello!, My name is Stevanu. I am a graduate of Nahdlatul Ulama Al Ghozali University majoring in Information Systems, with experience in several projects as a Web Developer, Quality Control, and Quality Assurance. I am accustomed to understanding system requirements, ensuring proper functionality, and contributing to the application development process. <br> With a high curiosity, a strong passion for learning, and a love of the world of software development as a hobby and profession, with a spirit of collaboration, I am ready to go further to deliver digital solutions that align with business needs and goals <br> I believe that good systems are born from a deep understanding of user needs, clear communication, and attention to detail..
+## 👋 About Me
+
+Hi! I'm **Stevanu**, an Information Systems graduate with experience in Web Development, Quality Control (QC), and Quality Assurance (QA).
+
+💻 I'm passionate about software development, building reliable applications, and finding effective solutions to real-world problems. Through my project experience, I've developed an understanding of system requirements, application functionality, software testing, and the importance of delivering quality products.
+
+🚀 I'm a curious and detail-oriented person who enjoys learning new technologies, exploring different approaches to problem-solving, and continuously improving my technical skills.
+
+🤝 I believe great software is built through a deep understanding of user needs, clear communication, attention to detail, and strong collaboration.
+
+**My goal is to keep growing as a developer and contribute to building meaningful digital solutions that create real value.**
+
+
 
 
 ## 🌐 Socials:
